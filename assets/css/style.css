@@ -1,4 +1,8 @@
 .panel-body a 
 {
-    word-break:break-all
+    word-break:break-all;
+}
+.panel-title {
+    background-color: gold;
+    padding: 20px;
 }
